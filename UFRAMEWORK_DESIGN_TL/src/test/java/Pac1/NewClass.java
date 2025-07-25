@@ -9,5 +9,12 @@ public class NewClass
 	{
 		System.out.println("New_Class");
 	}
+	
+	@Test
+	public void TL_new_class()
+	{
+		System.out.println("TL_new_class");
+
+	}
 
 }
