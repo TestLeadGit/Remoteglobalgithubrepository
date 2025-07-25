@@ -9,4 +9,10 @@ public class Normal_Framework
 	{
 		System.out.println("This is a Normal Framework");
 	}
+	
+	@Test
+	public void TC2()
+	{
+		System.out.println("i am TC2");
+	}
 }
